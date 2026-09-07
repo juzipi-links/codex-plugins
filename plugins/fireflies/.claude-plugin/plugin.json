@@ -1,0 +1,10 @@
+{
+  "name": "fireflies",
+  "description": "The Fireflies app brings your meetings and knowledge directly into Codex.",
+  "version": "1.0.0",
+  "author": {
+    "url": "https://fireflies.ai",
+    "name": "Fireflies"
+  },
+  "homepage": "https://fireflies.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fyxer",
+  "description": "Fyxer for Codex lets you write emails that sound like you, right from the chat.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fyxer",
+    "url": "https://www.fyxer.com"
+  },
+  "homepage": "https://www.fyxer.com"
+}

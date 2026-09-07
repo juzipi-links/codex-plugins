@@ -1,0 +1,10 @@
+{
+  "name": "happenstance",
+  "description": "Happenstance searches your professional network using natural language to find the right people.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Happenstance, Inc.",
+    "url": "https://happenstance.ai"
+  },
+  "homepage": "https://happenstance.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hostinger",
+  "description": "Hostinger Horizons lets you build real websites and apps just by describing what you want.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hostinger",
+    "url": "https://hostinger.com"
+  },
+  "homepage": "https://hostinger.com"
+}

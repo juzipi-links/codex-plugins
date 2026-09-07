@@ -1,0 +1,10 @@
+{
+  "name": "govtribe",
+  "description": "Search government contracts, awards, and vendors directly from Codex.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Government Executive Media Group LLC",
+    "url": "https://govtribe.com/"
+  },
+  "homepage": "https://govtribe.com/"
+}

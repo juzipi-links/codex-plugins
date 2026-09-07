@@ -1,0 +1,11 @@
+{
+  "name": "google-drive",
+  "description": "Use Google Drive as the single entrypoint for Drive, Docs, Sheets, and Slides work.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://workspace.google.com/products/drive/"
+}

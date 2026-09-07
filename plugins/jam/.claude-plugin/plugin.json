@@ -1,0 +1,10 @@
+{
+  "name": "jam",
+  "description": "Screen record with context",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jam",
+    "url": "https://jam.dev"
+  },
+  "homepage": "https://jam.dev"
+}

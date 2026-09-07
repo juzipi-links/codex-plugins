@@ -1,0 +1,10 @@
+{
+  "name": "granola",
+  "description": "Granola MCP connects your meeting history to Codex so your assistant can pull real context from past conv...",
+  "version": "1.0.0",
+  "author": {
+    "name": "Granola",
+    "url": "https://www.granola.ai"
+  },
+  "homepage": "https://www.granola.ai"
+}

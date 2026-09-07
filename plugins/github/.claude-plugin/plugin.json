@@ -1,0 +1,11 @@
+{
+  "name": "github",
+  "description": "Inspect repositories, triage pull requests and issues, debug CI, and publish changes through a hybrid GitHub connector and CLI workflow.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://github.com/"
+}

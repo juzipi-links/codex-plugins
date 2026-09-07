@@ -1,0 +1,10 @@
+{
+  "name": "hugging-face",
+  "description": "Inspect models, datasets, Spaces, and research",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co"
+  },
+  "homepage": "https://huggingface.co"
+}

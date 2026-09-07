@@ -1,0 +1,11 @@
+{
+  "name": "gmail",
+  "description": "Work with Gmail using the configured Gmail app connector.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://workspace.google.com/products/gmail/"
+}
