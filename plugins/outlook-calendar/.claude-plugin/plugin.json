@@ -1,0 +1,11 @@
+{
+  "name": "outlook-calendar",
+  "description": "Connect Outlook Calendar for scheduling, daily briefs, event prep, and safe meeting changes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://www.microsoft.com/en-us/microsoft-365/outlook/calendar-app"
+}

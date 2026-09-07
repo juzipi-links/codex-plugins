@@ -1,0 +1,10 @@
+{
+  "name": "monday-com",
+  "description": "A powerful MCP connector enabling AI agents to seamlessly interact with monday.com.",
+  "version": "1.0.0",
+  "author": {
+    "url": "https://monday.com",
+    "name": "Monday.com"
+  },
+  "homepage": "https://monday.com"
+}

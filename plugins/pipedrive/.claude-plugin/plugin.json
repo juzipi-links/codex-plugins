@@ -1,0 +1,10 @@
+{
+  "name": "pipedrive",
+  "description": "Connect to sync Pipedrive deals and contacts for use in Codex.",
+  "version": "1.0.0",
+  "author": {
+    "name": "OpenAI",
+    "url": "https://www.pipedrive.com/"
+  },
+  "homepage": "https://www.pipedrive.com/"
+}

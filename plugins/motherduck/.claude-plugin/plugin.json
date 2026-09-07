@@ -1,0 +1,10 @@
+{
+  "name": "motherduck",
+  "description": "Connect AI assistants to your MotherDuck data warehouse.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MotherDuck Corporation",
+    "url": "https://motherduck.com/"
+  },
+  "homepage": "https://motherduck.com/"
+}

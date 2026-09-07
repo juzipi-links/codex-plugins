@@ -1,0 +1,11 @@
+{
+  "name": "outlook-email",
+  "description": "Work with Outlook Email using the configured Microsoft Outlook app connector.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook"
+}

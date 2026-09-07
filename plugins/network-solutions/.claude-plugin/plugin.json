@@ -1,0 +1,10 @@
+{
+  "name": "network-solutions",
+  "description": "The Network Solutions Domain Search Assistant makes finding an available domain fast, simple, and conversat...",
+  "version": "1.0.0",
+  "author": {
+    "name": "Network Solutions",
+    "url": "https://www.networksolutions.com/"
+  },
+  "homepage": "https://www.networksolutions.com/"
+}

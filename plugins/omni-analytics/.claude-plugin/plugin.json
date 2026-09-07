@@ -1,0 +1,10 @@
+{
+  "name": "omni-analytics",
+  "description": "Query Omni using the same semantic model, permissions, and logic defined by your data team directly from Codex.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Omni Analytics",
+    "url": "https://www.omni.co"
+  },
+  "homepage": "https://www.omni.co"
+}

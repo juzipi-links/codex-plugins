@@ -1,0 +1,9 @@
+{
+  "name": "myregistry-com",
+  "description": "MyRegistry.com helps make gift-giving easy for friends & family to get you the gifts you really want!",
+  "version": "1.0.0",
+  "author": {
+    "name": "MyRegistry.com",
+    "url": "https://www.myregistry.com/\"\n  },\n  \"homepage\": \"https://www.myregistry.com/"
+  }
+}

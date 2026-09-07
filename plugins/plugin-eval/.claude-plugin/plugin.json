@@ -1,0 +1,11 @@
+{
+  "name": "plugin-eval",
+  "description": "Evaluate Codex skills and plugins from chat with a beginner-friendly start command, local-first reports, token budget explanations, and guided benchmarking.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI Codex",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://openai.com/"
+}

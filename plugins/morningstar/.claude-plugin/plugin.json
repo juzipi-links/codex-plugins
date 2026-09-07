@@ -1,0 +1,8 @@
+{
+  "name": "morningstar",
+  "description": "Investment and fund research",
+  "version": "1.0.0",
+  "author": {
+    "name": "Morningstar"
+  }
+}

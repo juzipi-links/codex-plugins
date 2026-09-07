@@ -1,0 +1,11 @@
+{
+  "name": "notion",
+  "description": "Notion workflows for implementation planning, research synthesis, meeting preparation, and knowledge capture.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://www.notion.so/"
+}
