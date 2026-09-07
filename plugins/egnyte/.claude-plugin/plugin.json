@@ -1,0 +1,10 @@
+{
+  "name": "egnyte",
+  "description": "Work with documents and files stored in Egnyte directly from Codex.",
+  "version": "1.0.0",
+  "author": {
+    "url": "https://www.egnyte.com",
+    "name": "Egnyte Inc"
+  },
+  "homepage": "https://www.egnyte.com"
+}

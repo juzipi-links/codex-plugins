@@ -1,0 +1,10 @@
+{
+  "name": "dow-jones-factiva",
+  "description": "The Factiva Connector, enables authorized users to search Factiva’s global news archive, including premium...",
+  "version": "1.0.0",
+  "author": {
+    "name": "Factiva, Inc.",
+    "url": "https://www.dowjones.com/business-intelligence/factiva/"
+  },
+  "homepage": "https://www.dowjones.com/business-intelligence/factiva/"
+}

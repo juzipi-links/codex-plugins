@@ -1,0 +1,11 @@
+{
+  "name": "coderabbit",
+  "description": "AI-powered code review in Codex, powered by CodeRabbit.",
+  "version": "1.1.1",
+  "author": {
+    "name": "CodeRabbit AI",
+    "email": "support@coderabbit.ai",
+    "url": "https://coderabbit.ai"
+  },
+  "homepage": "https://docs.coderabbit.ai/cli/overview"
+}

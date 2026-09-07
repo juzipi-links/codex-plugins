@@ -1,0 +1,10 @@
+{
+  "name": "docket",
+  "description": "Docket AI makes your sales knowledge your instant superpower.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Docket AI",
+    "url": "https://www.docket.io/"
+  },
+  "homepage": "https://www.docket.io/"
+}

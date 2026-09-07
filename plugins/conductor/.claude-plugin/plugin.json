@@ -1,0 +1,10 @@
+{
+  "name": "conductor",
+  "description": "The Conductor MCP server retrieves proprietary performance metrics regarding a brand's visibility, sentimen...",
+  "version": "1.0.0",
+  "author": {
+    "url": "https://www.conductor.com/",
+    "name": "Conductor Inc."
+  },
+  "homepage": "https://www.conductor.com/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "coveo",
+  "description": "Search your enterprise content",
+  "version": "1.0.0",
+  "author": {
+    "url": "https://www.coveo.com",
+    "name": "Coveo"
+  },
+  "homepage": "https://www.coveo.com"
+}

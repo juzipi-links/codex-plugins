@@ -1,0 +1,9 @@
+{
+  "name": "codex-security",
+  "description": "Codex Security workflows for security scans, analysis, and investigation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI"
+  },
+  "homepage": "https://openai.com/index/codex-security-now-in-research-preview/"
+}

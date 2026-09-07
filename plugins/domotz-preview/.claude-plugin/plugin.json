@@ -1,0 +1,10 @@
+{
+  "name": "domotz-preview",
+  "description": "Monitor and manage your network infrastructure through natural language.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Domotz",
+    "url": "https://www.domotz.com"
+  },
+  "homepage": "https://www.domotz.com"
+}

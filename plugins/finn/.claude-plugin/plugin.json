@@ -1,0 +1,10 @@
+{
+  "name": "finn",
+  "description": "A FINN car subscription is a flexible way to stay mobile anytime - without long-term commitments like buyin...",
+  "version": "1.0.0",
+  "author": {
+    "name": "FINN GmbH",
+    "url": "https://www.finn.com/de-DE"
+  },
+  "homepage": "https://www.finn.com/de-DE"
+}

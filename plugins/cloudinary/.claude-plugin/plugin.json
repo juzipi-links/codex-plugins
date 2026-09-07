@@ -1,0 +1,10 @@
+{
+  "name": "cloudinary",
+  "description": "Manage, search, and transform your Cloudinary media library — directly from Codex.",
+  "version": "1.0.0",
+  "author": {
+    "url": "https://cloudinary.com/",
+    "name": "Cloudinary"
+  },
+  "homepage": "https://cloudinary.com/"
+}
