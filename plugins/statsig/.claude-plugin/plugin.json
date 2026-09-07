@@ -1,0 +1,10 @@
+{
+  "name": "statsig",
+  "description": "Bring your Statsig workspace into Codex.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Statsig, LLC",
+    "url": "https://statsig.com"
+  },
+  "homepage": "https://statsig.com"
+}

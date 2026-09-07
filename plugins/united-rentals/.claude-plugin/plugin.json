@@ -1,0 +1,10 @@
+{
+  "name": "united-rentals",
+  "description": "Get the right equipment for the job without guesswork.",
+  "version": "1.0.0",
+  "author": {
+    "name": "United Rentals",
+    "url": "https://www.unitedrentals.com"
+  },
+  "homepage": "https://www.unitedrentals.com"
+}

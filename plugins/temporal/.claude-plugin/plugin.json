@@ -1,0 +1,10 @@
+{
+  "name": "temporal",
+  "description": "Comprehensive skill for the entire Temporal lifecycle — developing applications, using the Temporal CLI, running and managing Temporal Server, and working with Temporal Cloud.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Temporal",
+    "url": "https://temporal.io/"
+  },
+  "homepage": "https://temporal.io/"
+}

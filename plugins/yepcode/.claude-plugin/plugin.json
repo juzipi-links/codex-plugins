@@ -1,0 +1,10 @@
+{
+  "name": "yepcode",
+  "description": "YepCode lets you build custom AI tools using your own code with JSON Schema-defined inputs, executed in an...",
+  "version": "1.0.0",
+  "author": {
+    "name": "YepCode S.L.",
+    "url": "https://yepcode.io/"
+  },
+  "homepage": "https://yepcode.io/"
+}

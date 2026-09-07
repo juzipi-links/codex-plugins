@@ -1,0 +1,11 @@
+{
+  "name": "teams",
+  "description": "Work with Teams using the configured Microsoft Teams app connector.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software"
+}

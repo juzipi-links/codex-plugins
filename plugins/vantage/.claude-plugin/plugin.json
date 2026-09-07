@@ -1,0 +1,10 @@
+{
+  "name": "vantage",
+  "description": "Vantage is a cloud observability and optimization platform that aggregates cloud infrastructure costs acros...",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vantage",
+    "url": "https://www.vantage.sh"
+  },
+  "homepage": "https://www.vantage.sh"
+}

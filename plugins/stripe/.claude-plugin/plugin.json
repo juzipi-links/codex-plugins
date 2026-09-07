@@ -1,0 +1,10 @@
+{
+  "name": "stripe",
+  "description": "Payments and business tools",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stripe",
+    "url": "https://stripe.com"
+  },
+  "homepage": "https://stripe.com"
+}

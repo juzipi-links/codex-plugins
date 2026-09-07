@@ -1,0 +1,10 @@
+{
+  "name": "taxdown",
+  "description": "TaxDown te ayuda a resolver dudas fiscales en España, tanto para particulares como autónomos: deducciones,...",
+  "version": "1.0.0",
+  "author": {
+    "name": "TAXDOWN S.L.",
+    "url": "https://taxdown.es/"
+  },
+  "homepage": "https://taxdown.es/"
+}
