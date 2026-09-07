@@ -1,0 +1,10 @@
+{
+  "name": "read-ai",
+  "description": "Read AI brings your meeting intelligence directly into your AI workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Read AI, Inc",
+    "url": "https://read.ai"
+  },
+  "homepage": "https://read.ai"
+}

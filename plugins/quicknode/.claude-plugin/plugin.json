@@ -1,0 +1,10 @@
+{
+  "name": "quicknode",
+  "description": "Manage your Quicknode infrastructure directly in OpenAI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Quicknode",
+    "url": "https://www.quicknode.com/"
+  },
+  "homepage": "https://www.quicknode.com/"
+}

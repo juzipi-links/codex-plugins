@@ -1,0 +1,11 @@
+{
+  "name": "slack",
+  "description": "Work with Slack using the configured Slack integration.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://slack.com/"
+}

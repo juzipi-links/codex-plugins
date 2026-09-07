@@ -1,0 +1,10 @@
+{
+  "name": "signnow",
+  "description": "Get documents signed faster without switching between tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "airSlate Inc",
+    "url": "https://www.signnow.com"
+  },
+  "homepage": "https://www.signnow.com"
+}

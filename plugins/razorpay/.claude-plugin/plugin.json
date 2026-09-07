@@ -1,0 +1,10 @@
+{
+  "name": "razorpay",
+  "description": "Connect your Razorpay account to access your payment data through conversation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Razorpay Software Private Limited",
+    "url": "https://razorpay.com/"
+  },
+  "homepage": "https://razorpay.com/"
+}

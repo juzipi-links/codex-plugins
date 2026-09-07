@@ -1,0 +1,10 @@
+{
+  "name": "skywatch",
+  "description": "Search and explore satellite imagery from top providers including Vantor, Planet, Airbus, and more, all in...",
+  "version": "1.0.0",
+  "author": {
+    "name": "SkyWatch Space Applications Inc.",
+    "url": "https://skywatch.com"
+  },
+  "homepage": "https://skywatch.com"
+}

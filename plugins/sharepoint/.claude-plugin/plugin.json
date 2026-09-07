@@ -1,0 +1,11 @@
+{
+  "name": "sharepoint",
+  "description": "Work with SharePoint using the configured Microsoft SharePoint app connector.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "responsive",
+  "description": "The Responsive App makes it easy to work with your organization’s data inside Codex.",
+  "version": "1.0.0",
+  "author": {
+    "name": "RFPIO Inc. (d/b/a Responsive)",
+    "url": "https://www.responsive.io"
+  },
+  "homepage": "https://www.responsive.io"
+}

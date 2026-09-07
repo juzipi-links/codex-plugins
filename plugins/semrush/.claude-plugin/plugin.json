@@ -1,0 +1,10 @@
+{
+  "name": "semrush",
+  "description": "The Semrush MCP provides structured, quantitative SEO and traffic data for domains, keywords, backlinks, an...",
+  "version": "1.0.0",
+  "author": {
+    "name": "Semrush Holdings, Inc.",
+    "url": "https://www.semrush.com/"
+  },
+  "homepage": "https://www.semrush.com/"
+}

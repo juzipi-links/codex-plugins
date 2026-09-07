@@ -1,0 +1,10 @@
+{
+  "name": "scite",
+  "description": "Scite delivers answers grounded in peer-reviewed research you can verify.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Scite",
+    "url": "https://www.scite.ai"
+  },
+  "homepage": "https://www.scite.ai"
+}

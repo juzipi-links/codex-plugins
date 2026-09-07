@@ -1,0 +1,10 @@
+{
+  "name": "readwise",
+  "description": "The official app for Readwise and Reader.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Readwise Inc.",
+    "url": "https://readwise.io"
+  },
+  "homepage": "https://readwise.io"
+}

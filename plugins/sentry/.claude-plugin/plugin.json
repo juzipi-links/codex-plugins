@@ -1,0 +1,11 @@
+{
+  "name": "sentry",
+  "description": "Inspect recent issues and events in Sentry from Codex.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://sentry.io/"
+}
