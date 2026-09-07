@@ -1,0 +1,8 @@
+{
+  "name": "clickup",
+  "description": "Turn Codex into your ClickUp command center.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ClickUp"
+  }
+}

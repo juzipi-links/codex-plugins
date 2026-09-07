@@ -1,0 +1,11 @@
+{
+  "name": "build-web-apps",
+  "description": "Build web apps with frontend asset design, browser testing, UI components, payments, and database guidance.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://openai.com/"
+}

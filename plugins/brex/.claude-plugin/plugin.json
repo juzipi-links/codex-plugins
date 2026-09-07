@@ -1,0 +1,10 @@
+{
+  "name": "brex",
+  "description": "Connect Brex to Codex and review your company finances through natural conversation — at Codex speed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brex Inc.",
+    "url": "https://brex.com"
+  },
+  "homepage": "https://brex.com"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "attio",
+  "description": "Attio connects Codex directly to your CRM workspace, letting you manage customer relationships through na...",
+  "version": "1.0.0",
+  "author": {
+    "name": "Attio Ltd",
+    "url": "https://attio.com"
+  },
+  "homepage": "https://attio.com"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "canva",
+  "description": "Search, create, edit designs",
+  "version": "1.0.0",
+  "author": {
+    "name": "Canva",
+    "url": "https://www.canva.com"
+  },
+  "homepage": "https://www.canva.com"
+}

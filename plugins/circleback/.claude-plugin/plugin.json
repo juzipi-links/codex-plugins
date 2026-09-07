@@ -1,0 +1,10 @@
+{
+  "name": "circleback",
+  "description": "Circleback helps teams get the most out of every conversation with AI-powered meeting notes, action items,...",
+  "version": "1.0.0",
+  "author": {
+    "name": "Circleback AI, Inc.",
+    "url": "https://circleback.ai"
+  },
+  "homepage": "https://circleback.ai"
+}

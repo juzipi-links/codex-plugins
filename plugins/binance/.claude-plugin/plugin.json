@@ -1,0 +1,10 @@
+{
+  "name": "binance",
+  "description": "Binance for Codex lets you access and explore Binance public, read-only market data using natural language.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Binance",
+    "url": "https://www.binance.com"
+  },
+  "homepage": "https://www.binance.com"
+}

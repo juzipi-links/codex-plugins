@@ -1,0 +1,10 @@
+{
+  "name": "circleci",
+  "description": "Build, test, and deploy any application",
+  "version": "1.0.0",
+  "author": {
+    "name": "CircleCI",
+    "url": "https://circleci.com"
+  },
+  "homepage": "https://circleci.com"
+}
